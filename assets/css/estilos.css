@@ -1,0 +1,51 @@
+.main-section {
+    background-image: url('../img/img-main.jpeg');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+.card {
+    height: 100px;
+}
+
+.card img{
+    height: 250px;
+}
+h1{
+    text-align: center;
+}
+#contenedor{
+    background-color: rgb(209, 170, 246);
+    margin-top: 40px;
+    display: flex;
+    gap: 2px;
+}
+#contenedor2{
+    background-color: rgb(224, 192, 197);
+    margin-top: 40px;
+    display: flex;
+    gap: 2px;
+}
+.venta1{
+    height: 650px;
+    width: 510px;
+    border: 3px solid purple;
+}
+.venta2{
+    height: 650px;
+    width: 510px;
+    border: 3px solid red;
+} 
+img{
+    height: 300px;
+    width: 500px;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+}
